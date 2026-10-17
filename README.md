@@ -70,23 +70,23 @@ I'm a Full-Stack .NET Developer passionate about designing and building scalable
 
 <!-- Tech Stack -->
 
-<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 
-p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,docker,git,github,gitlab,postman,vscode,figma" alt="Mohamed Ebrahem's technology skills" />
-<br/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+
+<h3 align="center">🚀 Languages, Frameworks & Tools</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,docker,git,github,gitlab,postman,vscode,figma" alt="Mohamed Ebrahem's technology skills" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 <!-- Connect -->
