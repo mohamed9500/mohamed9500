@@ -72,8 +72,10 @@ I'm a Full-Stack .NET Developer passionate about designing and building scalable
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,mysql,postgres,git,github,gitlab,postman,vscode,figma" alt="Mohamed Ebrahem's technology skills" />
+p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,docker,git,github,gitlab,postman,vscode,figma" alt="Mohamed Ebrahem's technology skills" />
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 <p align="center">
