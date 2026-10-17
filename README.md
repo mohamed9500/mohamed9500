@@ -21,14 +21,14 @@ Passionate about building scalable, secure, and high-performance web application
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
 
-**`👨‍💻 Who Am I?
+👨‍💻 Who Am I?
 Hi, I'm Mohamed Ebrahem, a Full-Stack .NET Developer passionate about building scalable, secure, and high-performance web applications.
 I specialize in backend development using C#, .NET, and ASP.NET Core, combined with React to build modern, dynamic, and responsive user interfaces.
 I'm passionate about software architecture, clean code, and maintainable solutions, with a strong interest in Object-Oriented Programming (OOP), SOLID principles, design patterns, and RESTful API development.
 I enjoy designing robust backend systems, integrating databases, and creating seamless frontend experiences that deliver real value to users.
 I'm constantly improving my skills, exploring modern technologies, and striving to write efficient, reliable, and maintainable code.
 🚀 My mission is to transform ideas into powerful software solutions through clean architecture, continuous learning, and innovation.
-`**
+
 
 </details>
 
@@ -64,8 +64,8 @@ I'm constantly improving my skills, exploring modern technologies, and striving 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamed9500&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed Ebrahem GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed9500&layout=compact&theme=tokyonight&hide_border=true" alt="Mohamed Ebrahem Top Languages" />
 </div>
 
 <!-- Footer -->
