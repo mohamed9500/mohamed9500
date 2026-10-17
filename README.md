@@ -1,38 +1,55 @@
-# Bonjour ! 🥖
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" /></a>
+    </h1>
+<h3 align="center"> Backend Developer 👨‍💻| Software Engineer 🌐🛠️ </h3>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🛠  Technologies and tools
+<div align="center" style="display: block;">
+    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
+</div>
 
-<a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-<a name="learning-next"></a>
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
-## 📖  What I am currently learning / improving on
+
+**`Hi, I am Karem Saad. I have a Diploma in Software Engineering from the Technical Computer College at Damascus University, and I am in my second year of Information Technology Engineering at the Syrian Virtual University. Currently, I am in my third year of diving into the world of programming and software engineering.
+Throughout this journey, I have discovered many great concepts such as OOP, SOLID principles, generics with abstract classes, unit testing, and UML. I apply these concepts to every language I work with, including C#, Dart, PHP, and Python.
+In my last experience with a large project, I recognized the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and the Repository Pattern. My goal is always to provide the best experience for my clients or the team I work with.
+Lately, I have been focusing on frameworks such as Flutter and Laravel to elevate my skills in both. Additionally, I utilize tools such as Git to enhance my workflow. I am committed to continually learning and improving in my field.
+`**
+
+</details>
 <hr>
+- 🌱 I’m currently learning **Flutter and Laravel Development**
+
+- 📫 How to reach me **saad.karem8642@gmail.com**
+
+- ⚡ Fun fact **Always Want To Learn More 📚 .**
+
+<h3 align="left">let's get in touch :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
+<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
+</p>
+<!-- <h3 align="left">My Resume : <a href="https://beige-meggy-67.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3> -->
+
+
+<hr>
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,postgres,github,gitlab,vscode,visualstudio,windows,aws,react,linux,vercel,bitbucket" alt="Skills and tools" />
+</p>
+
+<hr>
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<p align="center">
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KaremSD&layout=compact&theme=radical" alt="KaremSD top languages" />
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=KaremSD&show_icons=true&theme=radical" alt="KaremSD GitHub stats" />
+</p>
+
+
