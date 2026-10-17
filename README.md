@@ -73,7 +73,12 @@ I'm a Full-Stack .NET Developer passionate about designing and building scalable
 <h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,mysql,postgres,git,github,gitlab,postman,vscode,figma,SignalR,Restful Api" alt="Technology skills" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,js,html,css,bootstrap,firebase,mysql,postgres,git,github,gitlab,postman,vscode,figma" alt="Mohamed Ebrahem's technology skills" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 <p align="center">
