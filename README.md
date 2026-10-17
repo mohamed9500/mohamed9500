@@ -6,31 +6,67 @@
 
 <!-- Introduction -->
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=36BCF7&size=35&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mohamed+Ebrahem;Full-Stack+.NET+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
-</h1>
+<!-- About Me - Mohamed Ebrahem -->
 
-<h3 align="center">💻 Full-Stack .NET Developer | React Developer</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building scalable, secure, and high-performance web applications.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=MOHAMED%20EBRAHEM&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,50:312e81,100:06b6d4" alt="Mohamed Ebrahem banner" />
 
-<!-- About Me -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+.NET+Developer;React+Frontend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Software+Architecture" alt="Typing animation" />
+</a>
 
-<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+<br/>
 
+<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 
-👨‍💻 Who Am I?
-Hi, I'm Mohamed Ebrahem, a Full-Stack .NET Developer passionate about building scalable, secure, and high-performance web applications.
-I specialize in backend development using C#, .NET, and ASP.NET Core, combined with React to build modern, dynamic, and responsive user interfaces.
-I'm passionate about software architecture, clean code, and maintainable solutions, with a strong interest in Object-Oriented Programming (OOP), SOLID principles, design patterns, and RESTful API development.
-I enjoy designing robust backend systems, integrating databases, and creating seamless frontend experiences that deliver real value to users.
-I'm constantly improving my skills, exploring modern technologies, and striving to write efficient, reliable, and maintainable code.
-🚀 My mission is to transform ideas into powerful software solutions through clean architecture, continuous learning, and innovation.
+</div>
 
+<h2 align="center">👨‍💻 About Me</h2>
 
-</details>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Passion-Coding-06b6d4?style=flat-square" alt="Coding" />
+<img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-8b5cf6?style=flat-square" alt="Learning" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack-ec4899?style=flat-square" alt="Full Stack" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
+🚀 Hello, I'm Mohamed Ebrahem!
+I'm a Full-Stack .NET Developer passionate about designing and building scalable, secure, and high-performance web applications.
+
+💻 Backend: C#, .NET, ASP.NET Core, RESTful APIs.
+⚛️ Frontend: React and modern UI development.
+🏗️ Software Engineering: OOP, SOLID principles, design patterns, and clean architecture.
+🗄️ Data Management: Database design and integration.
+🌱 Growth: Continuously improving my skills and exploring better engineering practices.
+🎯 Mission: Turning ideas into reliable, maintainable, and impactful software.
+</td>
+</tr>
+
+</table>
+
+<h2 align="center">⚡ My Development Philosophy</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Clean%20Code-0f172a?style=for-the-badge&labelColor=0891b2" alt="Clean code" />
+<img src="https://img.shields.io/badge/02-Scalable%20Architecture-0f172a?style=for-the-badge&labelColor=7c3aed" alt="Scalable architecture" />
+<img src="https://img.shields.io/badge/03-Continuous%20Growth-0f172a?style=for-the-badge&labelColor=db2777" alt="Continuous growth" />
+
+<br/><br/>
+
+<i>"Great software is built with curiosity, consistency, and attention to detail."</i>
+
+</div>
 
 <!-- Tech Stack -->
 
